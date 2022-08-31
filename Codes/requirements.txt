@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+tensorflow
+openpyxl
+graphviz
+PySimpleGUI
+scikit-learn
+ann_visualizer
